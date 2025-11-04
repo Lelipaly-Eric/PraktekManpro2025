@@ -2,3 +2,5 @@
 Praktek Individo Cara Penggunaan Github
 
 Read me = baca saya 
+
+Baca Buku Saja 
