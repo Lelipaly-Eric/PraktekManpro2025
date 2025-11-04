@@ -1,3 +1,6 @@
 Ini adalah sebuah File 
 
-Aku ngedit ini di remote 
+Aku ngedit ini di branch
+
+aku nge branch yay
+
